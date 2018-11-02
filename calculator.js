@@ -1,4 +1,4 @@
-// This is defined ass all imput like so: [(command), (num1), (num2), (num3), ...]
+// This is defined as all imput like so: [(command), (num1), (num2), (num3), ...]
 var imputArray = [];
 var numArray = [];
 
